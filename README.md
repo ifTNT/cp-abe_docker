@@ -1,6 +1,6 @@
 cp-abe_docker
 ===
-A wrapper of [http://acsc.cs.utexas.edu/cpabe/]http://acsc.cs.utexas.edu/cpabe/ powered by docker.  
+A wrapper of http://acsc.cs.utexas.edu/cpabe/ powered by docker.  
 [Docker hub](https://hub.docker.com/r/iftnt/cp-abe)
 
 ### Installation
